@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 import com.nineoldandroids.view.ViewPropertyAnimator;
 
 public class VPADemo extends Activity {
-    //傻不傻  即
+    //傻不傻  即   ffffffffff
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
